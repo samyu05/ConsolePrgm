@@ -14,4 +14,5 @@ void calculator(int n1, int n2, int (*pcallback)(int, int))
 int main()
 {
 	calculator(10, 20, addition);
+	cout << "Hello" << endl;
 }

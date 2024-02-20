@@ -15,4 +15,6 @@ int main()
 {
 	calculator(10, 20, addition);
 	cout << "Hello" << endl;
+
+	cout << "Gd evng" << endl;
 }

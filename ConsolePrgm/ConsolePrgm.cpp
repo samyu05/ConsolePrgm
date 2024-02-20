@@ -16,5 +16,5 @@ int main()
 	calculator(10, 20, addition);
 	cout << "Hello" << endl;
 
-	cout << "Gd night" << endl;
+	cout << "Gd n8" << endl;
 }
